@@ -5,7 +5,6 @@
 <h3 align="center">A passionate Web Developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/1200x/71/ee/32/71ee32577432648f9e45fbd63b2cf261.jpg">
 
-
 - 🔭 I’m currently working on **JavaScript and React**
 
 - 🌱 I’m currently learning **node.js**
