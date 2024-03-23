@@ -33,7 +33,7 @@
 # 📊 Stats:
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=enbayy&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/> </a>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jonfoble&theme=radical&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=enbayy&theme=radical&hide_border=false)<br/>
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
