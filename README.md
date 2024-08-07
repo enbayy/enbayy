@@ -2,7 +2,7 @@
   <a href="#"> 
     <img src= "https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=32&duration=2500&pause=1000&color=00E7FF&background=5670FF00&center=true&vCenter=true&width=440&height=100&lines=Web+Developer" alt="Typing SVG" /></a>
 <h1 align="center">Hi 👋, I'm Enes Bayar</h1>
-<h3 align="center">Jr. Web Develope from Turkey</h3>
+<h3 align="center">Jr. Web Developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/1200x/71/ee/32/71ee32577432648f9e45fbd63b2cf261.jpg">
 
 - 🔭 I’m currently working on **JavaScript and React**
