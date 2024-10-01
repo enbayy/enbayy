@@ -5,4 +5,5 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-quare&labelColor=black&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/mehmetalikuyucu/)
  <a href="https://github.com/enbayy/github-profile-views-counter">
+ <img src="https://komarev.com/ghpvc/?username=enbayy&color=blue">
 </a>
