@@ -4,7 +4,7 @@
 - How to reach me 1enesbayar@gmail.com
 
 <a href="https://www.linkedin.com/in/enesbayarr/">
-    <img src="https://github.com/user-attachments/assets/14749756-69cc-42eb-9d39-0bc428b9e049" alt="LinkedIn Badge" width="20" height="20" />
+    <img src="https://github.com/user-attachments/assets/14749756-69cc-42eb-9d39-0bc428b9e049" width="20" height="20" />
 </a>
 
  <a href="https://github.com/enbayy/github-profile-views-counter">
