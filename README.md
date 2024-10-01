@@ -3,7 +3,7 @@
 - I’m currently learning node.js
 - How to reach me 1enesbayar@gmail.com
 
-[![Linkedin Badge]](https://www.linkedin.com/in/enesbayarr/)
+(https://www.linkedin.com/in/enesbayarr/)
  <a href="https://github.com/enbayy/github-profile-views-counter">
  <img src="https://komarev.com/ghpvc/?username=enbayy&color=blue">
 </a>
