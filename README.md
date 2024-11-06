@@ -10,8 +10,3 @@
  <a href="https://github.com/enbayy/github-profile-views-counter">
  <img src="https://komarev.com/ghpvc/?username=enbayy&color=blue">
 </a>
-<p align="center">
-  <img align="center" src="./commit_count.svg" alt="Toplam Commit Sayısı" />
-</p>
-
-
