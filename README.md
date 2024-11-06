@@ -10,3 +10,4 @@
  <a href="https://github.com/enbayy/github-profile-views-counter">
  <img src="https://komarev.com/ghpvc/?username=enbayy&color=blue">
 </a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enbayy&show_icons=true&locale=en" alt="atilla0001" /></p> 
