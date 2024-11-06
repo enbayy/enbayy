@@ -11,6 +11,7 @@
  <img src="https://komarev.com/ghpvc/?username=enbayy&color=blue">
 </a>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=enbayy&show_icons=true&hide=contribs&locale=en" alt="enbayy" />
+  <img align="center" src="./commit_count.svg" alt="Toplam Commit Sayısı" />
 </p>
+
 
